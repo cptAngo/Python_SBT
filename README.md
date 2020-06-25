@@ -1,2 +1,2 @@
 # Python_SBT
-Homeworks for Python SBT
+Homework for Python SBT
